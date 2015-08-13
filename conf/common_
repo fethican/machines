@@ -1,0 +1,5 @@
+AWS_AMI=ami-5f709f34
+AWS_ZONE=us-east-1
+AWS_VPC_ID=vpc-xxxxx
+AWS_SECURITY_GROUP=my-group
+AWS_ROOT_SIZE=100
